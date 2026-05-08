@@ -58,12 +58,7 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 
 </p>
 
-Connect With Me : 
-
-📸 Instagram: @chirag._rachhoya
-💼 LinkedIn: Chirag Rachhoya
-
-
+------
  
  📌 Current Project
 
