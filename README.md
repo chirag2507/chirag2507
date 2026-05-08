@@ -40,6 +40,30 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 </p>
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/chirag2507" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/chirag._rachhoya" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/chirag-r-3a5185326" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+Connect With Me : 
+
+📸 Instagram: @chirag._rachhoya
+💼 LinkedIn: Chirag Rachhoya
+
+
  
  📌 Current Project
 
