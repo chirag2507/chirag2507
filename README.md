@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chirag
 
 🚀 About Me
-I am a Computer Engineering diploma student passionate about Web Development, Programming, and AI-powered applications.  
+I'm pursuing Software Engg. at GJUST,Hisar. I'm passionate about Web Development, Programming, and AI-powered applications.  
 I enjoy building modern websites and learning new technologies.  
 Currently, I am working on my major project **Urban Diary**, an AI-powered blogging platform built using the MERN stack.
 
@@ -44,10 +44,6 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 
 <p align="left">
 
-<a href="https://github.com/chirag2507" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.instagram.com/chirag._rachhoya" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -84,9 +80,5 @@ Built using:
 - Data Structures & Algorithms
 - AI Integration in Web Apps
 
----
 
-## 📫 Connect With Me
-- GitHub: https://github.com/chirag2507
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
