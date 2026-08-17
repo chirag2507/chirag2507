@@ -1,13 +1,11 @@
 # Hi 👋, I'm Chirag
 
-🚀 About Me
-I'm pursuing Software Engg. at GJUST,Hisar. I'm passionate about Web Development, Programming, and AI-powered applications.  
+I'm pursuing Software Engg.(AI and ML) at GJUST,Hisar. I'm passionate about Web Development, Programming, and AI-powered applications.  
 I enjoy building modern websites and learning new technologies.  
-Currently, I am working on my major project **Urban Diary**, an AI-powered blogging platform built using the MERN stack.
 
 ---
 
-💻 Tech Stack
+# Tech Stack
 
 <p align="left">
 
@@ -40,7 +38,7 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 </p>
 
 ---
-## 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -54,31 +52,14 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 
 </p>
 
-------
- 
- 📌 Current Project
+-----
 
-🌆 Urban Diary
-An AI-powered blogging website where users can:
-- Create and publish blogs
-- Like and comment on posts
-- Use AI writing assistance
-- Manage profiles and saved blogs
-
-Built using:
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-
----
-
-🌱 Currently Learning
+# Currently Learning
 - Full Stack Web Development
 - Data Structures & Algorithms
 - AI Integration in Web Apps
+- Data Analytics using R
+- Java Programming
 
 
 Thanks for visiting my profile!
