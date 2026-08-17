@@ -48,7 +48,7 @@ Currently, I am working on my major project **Urban Diary**, an AI-powered blogg
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/chirag2507" target="_blank">
+<a href="https://www.linkedin.com/in/chirag2507/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
