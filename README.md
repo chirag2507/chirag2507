@@ -1,7 +1,12 @@
 # Hi 👋, I'm Chirag
 
-I'm pursuing Software Engg.(AI and ML) at GJUST,Hisar. I'm passionate about Web Development, Programming, and AI-powered applications.  
-I enjoy building modern websites and learning new technologies.  
+I'm pursuing Software Engg.(AI and ML). I'm passionate about Full Stack Web Development, Java Development, and AI-powered applications.  
+I build scalable web applications, backend systems, and AI-powered products.
+
+Exploring Generative AI, LLMs, RAG, embeddings & AI-powered applications.
+Interested in system design, distributed systems, scalability & performance.
+Practicing Data Structures & Algorithms.
+Interested in Open Source & collaborative engineering
 
 ---
 
