@@ -1,12 +1,12 @@
 # Hi 👋, I'm Chirag
 
 I'm pursuing Software Engg.(AI and ML). I'm passionate about Full Stack Web Development, Java Development, and AI-powered applications.  
-I build scalable web applications, backend systems, and AI-powered products.
+* I build scalable web applications, backend systems, and AI-powered products.
 
-Exploring Generative AI, LLMs, RAG, embeddings & AI-powered applications.
-Interested in system design, distributed systems, scalability & performance.
-Practicing Data Structures & Algorithms.
-Interested in Open Source & collaborative engineering
+* Exploring Generative AI, LLMs, RAG, embeddings & AI-powered applications.
+* Interested in system design, distributed systems, scalability & performance.
+* Practicing Data Structures & Algorithms.
+* Interested in Open Source & collaborative engineering
 
 ---
 
